@@ -122,9 +122,9 @@
 
   // Function to add event to Google Calendar
   const addToGoogleCalendar = () => {
-    const eventTitle = "កម្មវិធីមង្គលការរបស់ វណ្ណៈ & ស្រីណយ!";
-    const eventDetails = "ប្រព្រឹត្តទៅនៅ ថ្ងៃសៅរ៍ ទី១៥ ខែមីនា ឆ្នាំ២០២៥ ត្រូវនឹង ថ្ងៃ២រោច ខែផល្គុន ឆ្នាំរោង ឆស័ក ពុទ្ធសករាជ ២៥៦៨ វេលាម៉ោង ៥:០០នាទីល្ងាច នៅ គេហដ្ឋានខាងស្រី ស្ថិតនៅ ភូមិកសិករ ឃុំសំឡាញ ស្រុកអង្គជ័យ ខេត្តកំពត!";
-    const location = "https://maps.google.com/maps?q=10.865470,104.590876&ll=10.865470,104.590876&z=16"; // Actual wedding location
+    const eventTitle = "កម្មវិធីមង្គលការរបស់ x & គាសូវ៉ង់!";
+    const eventDetails = "ប្រព្រឹត្តទៅនៅ ថ្ងៃព្រហស្បតិ៍ ទី២៦ ខែកុម្ភៈ ឆ្នាំ២០២៦ ត្រូវនឹង ថ្ងៃ១០កើត ខែផល្គុន ឆ្នាំម្សាញ់ សប្តស័ក ពុទ្ធសករាជ ២៥៦៩ វេលាម៉ោង ៤:០០នាទីល្ងាច នៅ គេហដ្ឋានខាងស្រី ស្ថិតនៅ ភូមិទី៦ ឃុំយាយម៉ៅពេជ្រនិល ស្រុកភ្នំស្រួច ខេត្តកំពង់ស្ពឺ!";
+    const location = "https://www.google.com/maps/place/11%C2%B012'46.6%22N+104%C2%B007'11.1%22E/@11.2129803,104.1195106,78m/data=!3m1!1e3!4m4!3m3!8m2!3d11.2129313!4d104.1197532?entry=ttu&g_ep=EgoyMDI1MTIwOS4wIKXMDSoKLDEwMDc5MjA3MUgBUAM%3D"; // Actual wedding location
 
     // Format date for Google Calendar
     const startDate = "20250314T140000"; // YYYYMMDDTHHMMSS
